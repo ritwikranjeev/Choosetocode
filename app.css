@@ -1,0 +1,11 @@
+﻿header, footer { 
+    background-color: #000000;
+    color: #808080;
+    padding: 20px;
+    text-align: center;
+}
+
+.title {
+    padding-top: 10px;
+    font-weight: bold;
+}
